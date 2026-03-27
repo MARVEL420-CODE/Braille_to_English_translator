@@ -27,8 +27,4 @@ Braille-to-English-Translator/
 ├── .gitignore
 │
 ├── templates/
-│   └── index.html
-│
-├── static/   (optional, if you add CSS/JS later)
-│
-├── Test_img/   (optional - you can remove or keep)
+    └── index.html
